@@ -3,8 +3,8 @@ webapp/.classpath
 webapp/.project
 webapp/.settings/
 
-.idea/workspace.xml
-.idea/tasks.xml 
+/.idea/workspace.xml
+/.idea/tasks.xml
 
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
